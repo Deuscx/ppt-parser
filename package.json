@@ -55,5 +55,9 @@
     "*.{js,ts,tsx,vue,md}": [
       "eslint --fix"
     ]
+  },
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "txml": "^5.1.1"
   }
 }
